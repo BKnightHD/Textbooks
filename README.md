@@ -15,8 +15,7 @@ A personal collection of textbooks across multiple disciplines for self-directed
 | [Python for Data Analysis](https://www.lkhibra.ma/books/Python-for-Data-Analysis.pdf) | Programming / Data Science | lkhibra.ma |
 | [The Calculus of Probabilities](https://digital.fandm.edu/_flysystem/fedora/2022-07/Levine_CalculusOfProbabilities.pdf) | Mathematics / Probability | Franklin & Marshall College Digital Collections |
 | [Introduction to Algorithms, 3rd Edition (CLRS)](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf) | Computer Science | McGill University |
-| [A Complete Guide to Programmming in C++](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf](https://www.idpoisson.fr/volkov/C++.pdf) | Computer Science | Ulla Kirch-Prinz
-Peter Prinz |
+| [A Complete Guide to Programmming in C++](https://www.idpoisson.fr/volkov/C++.pdf) | Computer Science | Ulla Kirch-Prinz Peter Prinz |
 
 ---
 
